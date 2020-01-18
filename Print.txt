@@ -1,0 +1,14 @@
+		       Super Store
+
+
+	Title	Price	Quantity	SubTotal	
+	Ferrero_Rocher	450.0	1	450.0
+	Mars	90.0	1	90.0
+	Kinder_Joy	95.0	1	95.0
+
+
+
+
+
+
+	Total :::: 635.0
